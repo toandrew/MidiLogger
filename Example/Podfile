@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MidiLogger_Example' do
+  pod 'MidiLogger', :path => '../'
+
+  target 'MidiLogger_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
