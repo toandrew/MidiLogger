@@ -22,7 +22,7 @@ pod 'MidiLogger'
 
 ## Author
 
-toandrew, zhoujianmin@xiaoyezi.com
+toandrew
 
 ## License
 
