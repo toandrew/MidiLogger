@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - MidiLogger (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - MidiLogger (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  MidiLogger:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  MidiLogger: 4a0378cd547a7a154885943d2e090ece7a8d7c7f
+
+PODFILE CHECKSUM: b09f723e7e0cd6c1818ae38df3e459fa87b3c811
+
+COCOAPODS: 1.8.4

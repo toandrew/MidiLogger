@@ -1,0 +1,22 @@
+{
+  "name": "MidiLogger",
+  "version": "0.1.0",
+  "summary": "A short description of MidiLogger.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/toandrew/MidiLogger",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "toandrew": "zhoujianmin@xiaoyezi.com"
+  },
+  "source": {
+    "git": "https://github.com/toandrew/MidiLogger.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MidiLogger/Classes/**/*"
+}
