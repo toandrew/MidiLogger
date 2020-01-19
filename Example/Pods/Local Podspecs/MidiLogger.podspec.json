@@ -1,15 +1,15 @@
 {
   "name": "MidiLogger",
   "version": "0.1.0",
-  "summary": "A short description of MidiLogger.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "Logger for midi related events",
+  "description": "logger tool for midi related events",
   "homepage": "https://github.com/toandrew/MidiLogger",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "toandrew": "zhoujianmin@xiaoyezi.com"
+    "toandrew": "jianmin.jim@gmail.com"
   },
   "source": {
     "git": "https://github.com/toandrew/MidiLogger.git",
@@ -18,5 +18,10 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "MidiLogger/Classes/**/*"
+  "source_files": "MidiLogger/Classes/**/*",
+  "public_header_files": "MidiLogger/Classes/**/MidiLoggerBridge.h",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ]
 }

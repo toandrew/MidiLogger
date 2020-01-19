@@ -248,6 +248,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = toandrew;
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = DS338FN422;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -513,6 +516,7 @@
 			baseConfigurationReference = CC4A882A8CC6D0FD65C4FDCB /* Pods-MidiLogger_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = DS338FN422;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MidiLogger/MidiLogger-Prefix.pch";
 				INFOPLIST_FILE = "MidiLogger/MidiLogger-Info.plist";
@@ -529,6 +533,7 @@
 			baseConfigurationReference = 55194C84F0B452E66A148FA9 /* Pods-MidiLogger_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = DS338FN422;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MidiLogger/MidiLogger-Prefix.pch";
 				INFOPLIST_FILE = "MidiLogger/MidiLogger-Info.plist";

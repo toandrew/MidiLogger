@@ -8,6 +8,8 @@
 
 #import "MLViewController.h"
 
+#import <MidiLoggerBridge.h>
+
 @interface MLViewController ()
 
 @end
@@ -24,6 +26,14 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+- (void)logMessage:(NSString *)message {
+    if (isLoging()) {
+        writeNLog(@"AudioRt", message);
+    } else {
+        NSLog(@"[AudioRt]%@", message);
+    }
 }
 
 @end

@@ -34,7 +34,7 @@ Pod::Spec.new do |s|
   #   'MidiLogger' => ['MidiLogger/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  s.public_header_files = 'MidiLogger/Classes/**/MidiLoggerBridge.h'
+  s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end

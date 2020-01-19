@@ -10,12 +10,6 @@
 #endif
 #endif
 
-#import "DAFileLogger.h"
-#import "DALegacyMacros.h"
-#import "DALog.h"
-#import "DALoggerNames.h"
-#import "DALogManager.h"
-#import "MidiLogger.h"
 #import "MidiLoggerBridge.h"
 
 FOUNDATION_EXPORT double MidiLoggerVersionNumber;
