@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MidiLogger'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'Logger for midi related events'
 
 # This description is used to generate tags and improve search results.
@@ -34,7 +34,7 @@ Pod::Spec.new do |s|
   #   'MidiLogger' => ['MidiLogger/Assets/*.png']
   # }
 
-  s.public_header_files = 'MidiLogger/Classes/**/MidiLoggerBridge.h'
+  s.public_header_files = 'MidiLogger/Classes/**/*.h'
   s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end

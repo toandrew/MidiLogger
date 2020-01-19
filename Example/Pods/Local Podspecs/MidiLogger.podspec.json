@@ -19,7 +19,7 @@
     "ios": "8.0"
   },
   "source_files": "MidiLogger/Classes/**/*",
-  "public_header_files": "MidiLogger/Classes/**/MidiLoggerBridge.h",
+  "public_header_files": "MidiLogger/Classes/**/*.h",
   "frameworks": [
     "UIKit",
     "MapKit"

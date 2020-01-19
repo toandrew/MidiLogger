@@ -11,25 +11,24 @@
 		11C410135C7E89353B480AC8DE0BFB77 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F1FE5C23F1BC485C54B92C32E78391F /* UIApplication+StrictKeyWindow.m */; };
 		14AD81D52FAD9CF2C065C61FB00C3B4F /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = E0956940883830C651240E754E3ECC52 /* UIImage+Diff.m */; };
 		14C511527597E5846AB2627F791C7D8E /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1FADF60E9DD790CA6E4094C4D6050DA /* QuartzCore.framework */; };
-		27F9D13D6B6DDD72CED7D7B7C4E4F57E /* DALegacyMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = D943728DA573B1444379792A3C1E9733 /* DALegacyMacros.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		298E7C4BD2AB81D66C2F74742AEF2037 /* DALogManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E430AD9AA03FE7948863F18F14319CE /* DALogManager.m */; };
 		2DCFF0CE0BD295F1D46D3247F36B192C /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = EF53D290F564A9B10CEF56C9DC2010F2 /* UIImage+Compare.m */; };
-		38050FB9F4EE67D261494F9434D25DBD /* MidiLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CAA50229CFEE0DDE47DE6E0D0828BA /* MidiLogger.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		40039E0AF0D764360B1D4FC4F7950D2E /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = 0A3ACA72AE9B776E644F6D159AB3E80B /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		5174A42A69BD65C982919424DA15174B /* Pods-MidiLogger_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F6ED4793F86D6DBCE19739E9106287B /* Pods-MidiLogger_Tests-dummy.m */; };
+		552EE25B38539EC8B2D40D46C5EB9DDA /* DALogManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 84835F0A0C16CB6EB10D595B7E5F8CA8 /* DALogManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6A7C5EE1F7C3B4F4BA5C5F28765ECAFF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ECAE0D2045D9A8635421741880EDA5D /* UIKit.framework */; };
 		6ACE4862979201C08D735BB27E5A52C7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBC41F008025D6FF811E4287393D79D5 /* Foundation.framework */; };
 		6AE239C5D116E1C06F5705699FB9EAF0 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 918A4A447F67FE816CF0B086EE1695FF /* XCTest.framework */; };
 		6DBC8EB7532E931C2FBDA71D1E0B66A4 /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A83AE4362CF1D4764E00E4602A2D648 /* FBSnapshotTestCase-dummy.m */; };
 		6DEA6BB76F10EA4B0F01BED95B6AAC70 /* MidiLoggerBridge.h in Headers */ = {isa = PBXBuildFile; fileRef = DA76F30031019B86D42BB2890479BC40 /* MidiLoggerBridge.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6E4CF9485CD765820BBCDF91F4C74EE7 /* DALoggerNames.h in Headers */ = {isa = PBXBuildFile; fileRef = A31E4292FC84DC1DCC86C7615360E247 /* DALoggerNames.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		6F220BCAED20C330CE243CF0EFC72CBA /* DALoggerNames.m in Sources */ = {isa = PBXBuildFile; fileRef = E0521B79DC63AC33BE163E996D2B8A95 /* DALoggerNames.m */; };
 		75B523A7C04C7C668D159D75A5ADE548 /* Pods-MidiLogger_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CB08BFE37700C91E570EB69D19AC8A19 /* Pods-MidiLogger_Example-dummy.m */; };
 		7AD007BDABD8D01472E977B275E373D3 /* Pods-MidiLogger_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0973BA6434678CDC2E1C3328152CB8C4 /* Pods-MidiLogger_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		88396E68DC05A379282F3B374F75F43C /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = DE35F81C954881204729C569018D98C0 /* FBSnapshotTestController.m */; };
+		8B63ABB1BA08E4CA10B10597E96E34E0 /* MidiLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = D6CAA50229CFEE0DDE47DE6E0D0828BA /* MidiLogger.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8CE3BF0ACE07EA42DD5DAC871BF4B767 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 13C8BBFE2D9E3A9C566221B1DE04E91C /* FBSnapshotTestCase.m */; };
-		8D284A08BC3BA80ACAC488D5030192B7 /* DAFileLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = E2758E7437F5E066E77532A8CA494967 /* DAFileLogger.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		90142C6259374E18E640396A59AD379A /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = 88EE4F95531D217A595AA8D85A24FA39 /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94FA8E0D046A65CE6E8B0272698892E8 /* DAFileLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = E2758E7437F5E066E77532A8CA494967 /* DAFileLogger.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9D65089019D558E5A9661F2DCAD20313 /* SwiftSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82D2DF1ABBBD85F5E079D7D0EB5479BC /* SwiftSupport.swift */; };
 		A525E29E0A8079B35B793D8A2B5FBDF2 /* UIImage+Snapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = AA172EA1A198EEFBE0794EACF7993C02 /* UIImage+Snapshot.m */; };
 		B12716DA6DBFBC35084AEBD6B1485F6D /* DALog.m in Sources */ = {isa = PBXBuildFile; fileRef = 73E06C3E2D12DF3884ADA12E90B3BEAB /* DALog.m */; };
@@ -38,10 +37,11 @@
 		B963158E54A2FA577F708803A161B47B /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E54E1484A5F467065DC30FE608DED4BA /* MapKit.framework */; };
 		C381FFC8B6DC16914FA7B48FFFF6A4D2 /* MidiLogger-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6F8E48F057EDF9BD3F0CB29FF3FE3D6C /* MidiLogger-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C49D52712466511E332C952834C81FE1 /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = D3067EAFD5B0A06885968D137840DB70 /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C7C3D2095A97A892AF2681F2D0469478 /* DALoggerNames.h in Headers */ = {isa = PBXBuildFile; fileRef = A31E4292FC84DC1DCC86C7615360E247 /* DALoggerNames.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB8E691FC062729C90BA6BC365238968 /* DAFileLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B7697A5D3BF099FFCEB0056421FA5B0 /* DAFileLogger.m */; };
 		D04AAC8B22E4A4DC4F39891C4E52F251 /* UIImage+Diff.h in Headers */ = {isa = PBXBuildFile; fileRef = E354F8FD537351F26F7949B4EBFA5101 /* UIImage+Diff.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		D216D09B69381F61B28908C171E57106 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBC41F008025D6FF811E4287393D79D5 /* Foundation.framework */; };
-		D31BA05EE7F81A11DCFCC4D3D4BE6172 /* DALog.h in Headers */ = {isa = PBXBuildFile; fileRef = 6D3A69C8B41DEC48E586A133E23B698C /* DALog.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		D355F020DCE51897C7C3F5EED117471A /* DALog.h in Headers */ = {isa = PBXBuildFile; fileRef = 6D3A69C8B41DEC48E586A133E23B698C /* DALog.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DDFF2CAD731CC0EED9761C79AA207372 /* MidiLogger-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F290C4C9355EDCC05B57B0D30AAB6F39 /* MidiLogger-dummy.m */; };
 		DEA978B9FD1BCAECF533330E1E9FACA4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBC41F008025D6FF811E4287393D79D5 /* Foundation.framework */; };
 		E0B8D095C732352C854D365B9E5B993D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ECAE0D2045D9A8635421741880EDA5D /* UIKit.framework */; };
@@ -50,7 +50,7 @@
 		F1AAAE00BB32B733B238E2B4E8424506 /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = A25844C26701FA4BCAEF64150B56777F /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		F3F794D3EF71CF0AC488D508847F7CC3 /* Pods-MidiLogger_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7345F3C84818981F22749D3038031F1E /* Pods-MidiLogger_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F720FAF13A108CE6901E0A8B0580E1E8 /* FBSnapshotTestCase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E621F768263424D9C5C35D58513625CB /* FBSnapshotTestCase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F73C8E55660F2E99EDC3B17FAFB16F81 /* DALogManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 84835F0A0C16CB6EB10D595B7E5F8CA8 /* DALogManager.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		F8B2E00F99ED22888F69499DD63CEB34 /* DALegacyMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = D943728DA573B1444379792A3C1E9733 /* DALegacyMacros.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -408,13 +408,13 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8D284A08BC3BA80ACAC488D5030192B7 /* DAFileLogger.h in Headers */,
-				27F9D13D6B6DDD72CED7D7B7C4E4F57E /* DALegacyMacros.h in Headers */,
-				D31BA05EE7F81A11DCFCC4D3D4BE6172 /* DALog.h in Headers */,
-				6E4CF9485CD765820BBCDF91F4C74EE7 /* DALoggerNames.h in Headers */,
-				F73C8E55660F2E99EDC3B17FAFB16F81 /* DALogManager.h in Headers */,
+				94FA8E0D046A65CE6E8B0272698892E8 /* DAFileLogger.h in Headers */,
+				F8B2E00F99ED22888F69499DD63CEB34 /* DALegacyMacros.h in Headers */,
+				D355F020DCE51897C7C3F5EED117471A /* DALog.h in Headers */,
+				C7C3D2095A97A892AF2681F2D0469478 /* DALoggerNames.h in Headers */,
+				552EE25B38539EC8B2D40D46C5EB9DDA /* DALogManager.h in Headers */,
 				C381FFC8B6DC16914FA7B48FFFF6A4D2 /* MidiLogger-umbrella.h in Headers */,
-				38050FB9F4EE67D261494F9434D25DBD /* MidiLogger.h in Headers */,
+				8B63ABB1BA08E4CA10B10597E96E34E0 /* MidiLogger.h in Headers */,
 				6DEA6BB76F10EA4B0F01BED95B6AAC70 /* MidiLoggerBridge.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
